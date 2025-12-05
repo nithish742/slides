@@ -1,59 +1,29 @@
 ---
 marp: true
-title: Product Documentation Presentation
+title: Technical Report
 author: Nithish
 theme: default
 paginate: true
 ---
 
-# Product Documentation Overview  
+<!-- _backgroundColor: #ffebcd -->
+# Introduction
 
-**Technical Writer – Software Division**  
-**Email:** 25f1001910@ds.study.iitm.ac.in  
+**Email:** 25f1001910@ds.study.iitm.ac.in
 
----
-
-<!-- _class: lead -->
-# Introduction  
-
-Using **Marp** to build documentation that is:  
-- Version-controlled  
-- Reusable  
-- Exportable to HTML, PDF, PPTX  
-- Developer-friendly  
+This slide uses a proper Marp directive at the top.
 
 ---
 
-# Custom Theme + Styling  
+# Code Example
 
-<style>
-section {
-  font-family: "Arial", sans-serif;
-}
-h1 {
-  color: #d33682;
-}
-p {
-  font-size: 20px;
-}
-.custom-box {
-  padding: 15px;
-  border: 3px solid #d33682;
-  border-radius: 10px;
-}
-</style>
+```python
+# Python code with syntax highlighting
+def double(x):
+    return x*2
 
-<div class="custom-box">
-This slide uses a **custom CSS theme** inside Marp.
-</div>
+print(double(5))
 
----
-
-![bg cover](https://picsum.photos/1200/800)
-
-# Background Image Slide  
-
-Marp supports **full-slide background images** using directives:
 
 
 
