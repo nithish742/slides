@@ -20,6 +20,7 @@ This presentation includes:
 
 ---
 
+<!-- _backgroundColor: #123456 -->
 # Introduction  
 
 Using **Marp** to build documentation that is:  
@@ -60,6 +61,7 @@ This slide uses a **custom CSS theme** inside Marp.
 # Background Image Slide  
 
 Marp supports **full-slide background images** using directives:
+
 
 
 
