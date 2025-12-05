@@ -9,13 +9,13 @@ paginate: true
 <!-- _class: lead -->
 # Introduction
 
-**Email:** 25f1001910@ds.study.iitm.ac.in
+**Email:** 25f1001910@ds.study.iitm.ac.in  
 
-Welcome to the quarterly technical report. This slide uses a proper Marp directive.
+Welcome to the quarterly technical report. This slide uses a **Marp directive** at the top.
 
 ---
 
-# Animated Fragments Example
+# Animated Fragments
 
 - Step 1: Collect Data <!-- .fragment -->
 - Step 2: Analyze Data <!-- .fragment -->
@@ -23,7 +23,7 @@ Welcome to the quarterly technical report. This slide uses a proper Marp directi
 
 ---
 
-# Code Example
+# Code Example (Python)
 
 ```python
 # Python code with syntax highlighting
@@ -32,9 +32,6 @@ def compute(values):
 
 data = [1,2,3]
 print(compute(data))
-
-
-
 
 
 
