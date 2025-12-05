@@ -11,7 +11,7 @@ paginate: true
 **Technical Writer – Software Division**  
 **Email:** 25f1001910@ds.study.iitm.ac.in  
 
-This presentation is created using **Marp** with:  
+This presentation includes:  
 - Custom theme  
 - Background image  
 - Math equations  
@@ -19,10 +19,6 @@ This presentation is created using **Marp** with:
 - Code samples  
 
 ---
-
-<!-- _class: lead -->
-<!-- _backgroundColor: #123456 -->
-<!-- _color: #ffffff -->
 
 # Introduction  
 
@@ -64,6 +60,8 @@ This slide uses a **custom CSS theme** inside Marp.
 # Background Image Slide  
 
 Marp supports **full-slide background images** using directives:
+
+
 
 
 
