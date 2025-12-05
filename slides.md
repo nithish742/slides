@@ -7,16 +7,16 @@ paginate: true
 ---
 
 # Product Documentation Overview  
-### Technical Writer – Software Division  
 
+**Technical Writer – Software Division**  
 **Email:** 25f1001910@ds.study.iitm.ac.in  
 
 This documentation presentation is created using **Marp** with:  
 - Custom theme  
 - Background image  
 - Math equations  
-- Directives  
-- Pagination  
+- Fragments/animations  
+- Code samples  
 
 ---
 
@@ -25,6 +25,7 @@ This documentation presentation is created using **Marp** with:
 <!-- _color: #ffffff -->
 
 # Introduction  
+
 Using **Marp** to build documentation that is:  
 - Version-controlled  
 - Reusable  
@@ -33,7 +34,8 @@ Using **Marp** to build documentation that is:
 
 ---
 
-<!-- Custom Theme Style -->
+# Custom Theme + Styling  
+
 <style>
 section {
   font-family: "Arial", sans-serif;
@@ -51,19 +53,16 @@ p {
 }
 </style>
 
-# Custom Theme + Styling  
-
 <div class="custom-box">
 This slide uses a **custom CSS theme** inside Marp.
 </div>
 
 ---
 
-<!-- Slide with Background Image -->
-
 ![bg cover](https://picsum.photos/1200/800)
 
 # Background Image Slide  
 
-Marp supports **full-slide background images** using directives:  
+Marp supports **full-slide background images** using directives:
+
 
